@@ -2,4 +2,4 @@ senhas.txt
 main
 arquivos-extremamente-pesados
 *.out
-*/*.out
+**/*.out
